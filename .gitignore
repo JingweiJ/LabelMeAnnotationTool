@@ -7,3 +7,8 @@ annotationTools/scribble/segment.cgi
 annotationTools/scribble/image.jpg
 annotationTools/scribble/mask.png
 annotationTools/scribble/scribble.png
+Annotations/example_folder/*
+annotationCache/TmpAnnotations/example_folder/*
+Masks/example_folder/*
+Scribbles/example_folder/*
+

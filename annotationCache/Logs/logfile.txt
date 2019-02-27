@@ -223,3 +223,30 @@
 05-Jun-2012 16:40:16 127.0.0.1 *start_loading
 05-Jun-2012 16:40:16 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
 05-Jun-2012 16:40:16 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+27-Feb-2019 06:11:37 171.64.70.192 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+27-Feb-2019 06:11:37 171.64.70.192 *start_loading
+27-Feb-2019 06:11:40 171.64.70.192 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+27-Feb-2019 06:11:40 171.64.70.192 *start_loading
+27-Feb-2019 06:11:43 171.64.70.192 *done_loading_Images/example_folder/img2.jpg
+27-Feb-2019 06:12:07 171.64.70.192 *start_polygon
+27-Feb-2019 06:12:09 171.64.70.192 *What_is_this_object_query
+27-Feb-2019 06:12:11 example_folder img2 0 1 171.64.70.192  car 1 anonymous cpts_not_modified 0 0
+27-Feb-2019 06:12:15 171.64.70.192 *start_polygon
+27-Feb-2019 06:12:19 171.64.70.192 *What_is_this_object_query
+27-Feb-2019 06:12:22 example_folder img2 1 2 171.64.70.192  house 2 anonymous cpts_not_modified 0 0
+27-Feb-2019 06:12:52 171.64.70.192 *start_polygon
+27-Feb-2019 06:12:53 171.64.70.192 *What_is_this_object_query
+27-Feb-2019 06:12:56 example_folder img2 2 3 171.64.70.192  brrom 3 anonymous cpts_not_modified 0 0
+27-Feb-2019 06:13:00 171.64.70.192 *Opened_Edit_Popup
+27-Feb-2019 06:13:07 171.64.70.192 *Closed_Edit_Popup
+27-Feb-2019 06:13:07 example_folder img2 3 3 171.64.70.192  brrom->broom 3 anonymous cpts_not_modified 0 0
+27-Feb-2019 06:13:10 171.64.70.192 *Opened_Edit_Popup
+27-Feb-2019 06:13:15 171.64.70.192 *Closed_Edit_Popup
+27-Feb-2019 06:20:04 171.64.70.192 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+27-Feb-2019 06:20:04 171.64.70.192 *start_loading
+27-Feb-2019 06:20:07 171.64.70.192 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+27-Feb-2019 06:20:07 171.64.70.192 *start_loading
+27-Feb-2019 06:20:07 171.64.70.192 *done_loading_Images/example_folder/img3.jpg
+27-Feb-2019 06:20:25 171.64.70.192 *start_polygon
+27-Feb-2019 06:20:27 171.64.70.192 *What_is_this_object_query
+27-Feb-2019 06:20:29 example_folder img3 0 1 171.64.70.192  car 1 anonymous cpts_not_modified 0 0

@@ -1,6 +1,8 @@
 [LabelMe](http://labelme.csail.mit.edu) annotation tool source code
 ===========
 
+**TODO: add action caption prompts**
+
 Here you will find the source code to install the LabelMe annotation
 tool on your server. LabelMe is an annotation tool writen in
 Javascript for online image labeling. The advantage with respect to
